@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    background-color: rgb(48, 51, 59);
+}
+
+.logoSuperior{
+    width: 20%;
+    margin-left: 100px;
+}
+
+/* La conferencia (carrousel) */
+.carousel{
+    background-color: black;
+}
+
+.imgOpacidad{
+    opacity: 50%;
+}
+
+
+/* El lugar y la fecha */
+.contenedorHonolulu img{
+    width: 100%;
+}
+.contenedorHonolulu h2{
+    color: white;
+}
+.contenedorHonolulu p{
+    color: white;
+}
+.contenedorHonolulu .col{
+    background-color: rgb(53, 53, 53);
+}
+
+/* Conviertete en orador */
+.textoSubrayado{
+    text-decoration: underline;
+}
+
+.formulario p{
+    color: gray;
+}
+
+/* Footer */
+.footer {
+    background-color: rgb(28, 72, 102);
+    height: 100px;
+    display: grid;
+    align-items: center;
+}
+
+.footerItem {
+    text-decoration: none;
+    color: white;
+}
+
